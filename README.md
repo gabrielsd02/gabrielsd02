@@ -28,3 +28,9 @@
   <a href="mailto:xgabrields@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-souza-domingos-387a071a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+<div style="align-items: center; justify-content: center;">
+  <img align="center" src="https://media.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif">
+</div>
