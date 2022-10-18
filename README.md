@@ -1,6 +1,6 @@
 ## 👋 Hi, I'am Gabriel, a front-end developer
 
-<div align="center"><br>
+<div style="align-items: center; justify-content: center; flex-direction: row"><br>
   <a href="https://github.com/gabrielsd02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsd02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=stars,contribs,prs"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsd02&layout=compact&langs_count=7&theme=dark"/>
@@ -28,6 +28,6 @@
   
 <div>
   <h3>📞 Contacts</h3>
-   <a href = "mailto:xgabrields@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:xgabrields@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-souza-domingos-387a071a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
