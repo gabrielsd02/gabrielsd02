@@ -1,5 +1,7 @@
 ## 👋 Hi, I'am Gabriel, a front-end developer
 
+<small>I started in 02/2021</small>
+
 <div style="align-items: center; justify-content: center; flex-direction: row"><br>
   <a href="https://github.com/gabrielsd02">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsd02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400px&hide=stars,contribs,prs"/>
