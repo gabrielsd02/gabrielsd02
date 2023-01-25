@@ -4,8 +4,8 @@
 
 <div style="align-items: center; justify-content: center; flex-direction: row; flex: 1;"><br>
   <a href="https://github.com/gabrielsd02">
-  <img height="180em" width="60%" src="https://github-readme-stats.vercel.app/api?username=gabrielsd02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400px&hide=stars,contribs,prs"/>
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsd02&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsd02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400px&hide=stars,contribs,prs"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsd02&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
