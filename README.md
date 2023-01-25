@@ -1,6 +1,6 @@
 ## 👋 Hi, I'am Gabriel, a front-end developer
 
-<small>I started in 02/2021</small>
+<small>I started to work in 02/2021</small>
 
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;"><br>
   <a style="display: flex !important;" href="https://github.com/gabrielsd02">
