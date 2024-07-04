@@ -1,4 +1,4 @@
-## 👋 Hi, I'am Gabriel, a JS developer
+## 👋 Hi, I'am Gabriel, a Full Stack developer
 
 <small>I started to work in 02/2021</small>
 
