@@ -4,7 +4,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;"><br>
   <a style="display: flex;" href="https://github.com/gabrielsd02">
-    <img width="100%" src="https://github-stats-extended.vercel.app/api?username=gabrielsd02&rank_icon=github&show_icons=true&include_all_commits=true"/>
+    <img width="100%" src="https://github-stats-extended.vercel.app/api?username=gabrielsd02&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark"/>
    </a>
 </div>
 
