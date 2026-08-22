@@ -4,11 +4,9 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;"><br>
   <a style="display: flex;" href="https://github.com/gabrielsd02">
-    [![gabrielsd02's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielsd02)](https://github.com/stats-organization/github-stats-extended)
+    <img width="100%" src="https://github-stats-extended.vercel.app/api?username=gabrielsd02&rank_icon=github&show_icons=true&include_all_commits=true"/>
    </a>
 </div>
-
-##
 
 <div style="display: inline_block">
     <h3>🚀 Skills</h3>
