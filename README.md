@@ -4,8 +4,7 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: row;"><br>
   <a style="display: flex;" href="https://github.com/gabrielsd02">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielsd02&show_icons=true&theme=dark&include_all_commits=true&count_private=true&card_width=400px&hide=stars,contribs,prs"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabrielsd02&layout=compact&langs_count=7&theme=dark"/>
+    [![gabrielsd02's GitHub stats](https://github-stats-extended.vercel.app/api?username=gabrielsd02)](https://github.com/stats-organization/github-stats-extended)
    </a>
 </div>
 
